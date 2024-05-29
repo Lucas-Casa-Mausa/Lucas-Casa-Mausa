@@ -7,7 +7,7 @@ Meu nome é Lucas Casa Mausa e sou um entusiasta da tecnologia, apaixonado por p
 Recentemente, conclui o curso técnico em Desenvolvimento de Sistemas pela ETEC Dr. Emilio Hernandez Aguilar, onde adquiri conhecimentos sólidos em programação, redes e banco de dados. Atualmente, estou iniciando minha graduação em Análise e Desenvolvimento de Sistemas na FMU.
 
 ## Contato
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucas___s_/)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luscovisqui/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-casa-mausa-67825b214/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascasamausa000@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucas___s_/)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luscovisqui/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-casa-mausa-exe)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascasamausa000@gmail.com)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Casa-Mausa&show_icons=true&theme=radical&locale=pt-br)
 
