@@ -4,7 +4,7 @@
 Meu nome é Lucas Casa Mausa e sou um entusiasta da tecnologia, apaixonado por programação e desenvolvimento de sistemas. Estou sempre em busca de novas oportunidades para aprender e me desenvolver na área de tecnologia.
 
 ### Carreira e Objetivos
-Desenvolvedor Python apaixonado por backend e futuro entusiasta de IA. Experiência em desenvolvimento de sistemas web utilizando Python, SQL, Flask e Django. Busco oportunidades para aplicar minhas habilidadese conhecimentos em projetos desafiadores, com foco em crescimento e aprendizado contínuo na área de Inteligência Artificial.
+Desenvolvedor Python apaixonado por backend e futuro entusiasta de IA. Experiência em desenvolvimento de sistemas web utilizando Python, SQL, Flask e Django e aprendendo cada vez mais. Busco oportunidades para aplicar minhas habilidadese conhecimentos em projetos desafiadores, com foco em crescimento e aprendizado contínuo na área de Inteligência Artificial.
 
 ## Contato
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucas___s_/)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luscovisqui/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-casa-mausa-exe)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascasamausa000@gmail.com)
