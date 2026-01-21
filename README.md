@@ -22,7 +22,7 @@ class DevLucas:
     def __init__(self):
         self.nome = "Lucas Casa Mausa"
         self.role = "Backend Developer"
-        self.linguagens = ["Python", "JavaScript", "C++", "PHP"]
+        self.linguagens = ["Python", "JavaScript", "C++", "React"]
         self.interesses = ["IA", "Machine Learning", "Fullstack Development"]
         self.meta_atual = "Tornar-me um desenvolvedor Fullstack"
     
