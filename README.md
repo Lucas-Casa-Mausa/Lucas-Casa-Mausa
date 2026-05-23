@@ -23,7 +23,7 @@ class Engineer:
     name     = "Lucas Casa Mausa"
     location = "São Paulo, Brasil"
     stack    = ["Python", "TypeScript", "Node.js", "SQL"]
-    focus    = ["Backend systems", "API design", "Software architecture"]
+    focus    = ["Backend systems", "API design", "Software architecture", "Full Stack"]
     now      = "Building credit & real estate financing infrastructure @ aMORA"
 ```
 
