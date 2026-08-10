@@ -148,7 +148,7 @@ FastAPI + React + PostgreSQL, Alembic migrations, Docker Compose.
 <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Casa-Mausa&theme=github_dark" />
 <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucas-Casa-Mausa&theme=github_dark" />
 
-<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Casa-Mausa&theme=github_dark" />
+<img width="49%" src="https://readme-stats-lucascasamausa000-9255s-projects.vercel.app/api?username=Lucas-Casa-Mausa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&hide=stars" />
 <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucas-Casa-Mausa&theme=github_dark&utcOffset=-3" />
 
 <img width="85%" src="https://streak-stats.demolab.com?user=Lucas-Casa-Mausa&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
