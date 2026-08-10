@@ -70,8 +70,6 @@ Four layers — compile-time gate, CI coverage ledger, Prisma extension, SQL inv
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Lucas-Casa-Mausa/Lucas-Casa-Mausa/main/assets/divider.svg" width="100%" onerror="this.style.display='none'" />
-
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> &nbsp; Stack
 
 <div align="center">
@@ -118,23 +116,42 @@ Four layers — compile-time gate, CI coverage ledger, Prisma extension, SQL inv
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; Featured
 
-<div align="center">
-<a href="https://github.com/Lucas-Casa-Mausa/gobalance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Casa-Mausa&repo=gobalance&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Lucas-Casa-Mausa/THREADS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Casa-Mausa&repo=THREADS&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [gobalance](https://github.com/Lucas-Casa-Mausa/gobalance) &nbsp; ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+L7 load balancer and reverse proxy in **pure Go stdlib** — round-robin, active health checks, rate limiting and circuit breaker.
+
+Built to understand how each piece works from the inside instead of configuring an nginx.
+
+</td>
+<td width="50%" valign="top">
+
+### [THREADS](https://github.com/Lucas-Casa-Mausa/THREADS) &nbsp; ![Python](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+Interactive platform teaching **threads, concurrency and parallelism** through visual animations and quizzes.
+
+FastAPI + React + PostgreSQL, Alembic migrations, Docker Compose.
+
+</td>
+</tr>
+</table>
 
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> &nbsp; Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lucas-Casa-Mausa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Casa-Mausa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Casa-Mausa&theme=github_dark" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Lucas-Casa-Mausa&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Casa-Mausa&theme=github_dark" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucas-Casa-Mausa&theme=github_dark" />
+
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Casa-Mausa&theme=github_dark" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucas-Casa-Mausa&theme=github_dark&utcOffset=-3" />
+
+<img width="85%" src="https://streak-stats.demolab.com?user=Lucas-Casa-Mausa&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Casa-Mausa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" />
 
