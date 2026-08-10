@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Lucas-Casa-Mausa/Lucas-Casa-Mausa/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About
 
