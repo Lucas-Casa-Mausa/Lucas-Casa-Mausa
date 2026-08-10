@@ -155,8 +155,6 @@ FastAPI + React + PostgreSQL, Alembic migrations, Docker Compose.
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Casa-Mausa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lucas-Casa-Mausa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
 </div>
 
 <div align="center">
