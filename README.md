@@ -1,111 +1,149 @@
 <div align="center">
 
-# Lucas Casa Mausa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Lucas%20Casa%20Mausa&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20·%20Backend%20·%20Distributed%20Systems&descSize=17&descAlignY=57&animation=fadeIn" width="100%" />
 
-**Software Engineer — Backend · APIs · Automations**
+<a href="https://www.linkedin.com/in/lucas-casa-mausa">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+engineer+at+a+Brazilian+credit+fintech;I+care+about+the+failure+mode%2C+not+the+happy+path;TOCTOU%2C+idempotency%2C+race+conditions%2C+CTEs;Cut+a+production+LCP+from+5.2s+to+1.7s;Building+an+L7+load+balancer+in+Go+from+scratch" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-casamausa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://lucas-casa-mausa.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucascasamausa000@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Lucas-Casa-Mausa&color=0077B5&style=flat-square&label=views)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-casa-mausa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lucas-casa-mausa.github.io/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucascasamausa000@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Lucas-Casa-Mausa&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Lucas-Casa-Mausa)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-## About
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About
 
-Backend engineer with hands-on production experience at a Brazilian fintech.  
-I build internal APIs, third-party integrations, and operational tooling — and care about understanding systems deeply, not just making them work.
+I'm one of four engineers building the credit and real estate financing infrastructure at **aMORA**, a Brazilian fintech. At that team size you touch everything — backend, frontend, database, bank integrations — and you learn fast that the interesting part of a financial system is never the happy path.
 
 ```python
 class Engineer:
-    name     = "Lucas Casa Mausa"
-    location = "São Paulo, Brasil"
-    stack    = ["Python", "TypeScript", "Node.js", "SQL"]
-    focus    = ["Backend systems", "API design", "Software architecture", "Full Stack"]
-    now      = "Building credit & real estate financing infrastructure @ aMORA"
+    name      = "Lucas Casa Mausa"
+    location  = "São Paulo, Brasil"
+    role      = "Software Engineer @ aMORA"
+    stack     = ["TypeScript", "Python", "Go", "SQL"]
+    obsessed  = ["concurrency", "query plans", "failure modes", "observability"]
+    currently = "an L7 load balancer in Go, stdlib only"
 ```
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18" /> <b>Some things I shipped</b>
+</div>
 
-## Stack
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚡ Production LCP: 5.2s → 1.7s**
+
+Ran Lighthouse, mapped the load timeline, found an auth waterfall holding every fetch hostage. Same-origin proxy, fetch dedup, cascade broken. API calls per page load went from 12–14 to 4–5.
+
+</td>
+<td width="50%" valign="top">
+
+**🗃️ Correlated subqueries → set-based CTEs**
+
+Six correlated `MAX` subselects per row on a 500-card board meant thousands of index scans in one statement. Rewrote as `GROUP BY` aggregations, verified with `EXPLAIN ANALYZE`.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔒 Soft-delete under concurrency**
+
+96 files. Portfolio reassignment, TOCTOU guards, retriable races, transaction compensation across auth, service desk and notifications.
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Multi-tenant audit harness**
+
+Four layers — compile-time gate, CI coverage ledger, Prisma extension, SQL invariants — guarding a migration across 72 models and 310 HTTP handlers.
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Lucas-Casa-Mausa/Lucas-Casa-Mausa/main/assets/divider.svg" width="100%" onerror="this.style.display='none'" />
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> &nbsp; Stack
+
+<div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend**
+**Backend & Async**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 
 **Data**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Auth & Security**
-
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-**DevOps & Tooling**
+**Auth, DevOps & Tooling**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
----
-
-## Experience
-
-| | |
-|---|---|
-| **Junior Software Engineer** | aMORA · Jun 2025 – present |
-| Internal APIs, CRM integrations (webhooks), auth performance (Firebase token caching), Docker, NestJS + FastAPI | São Paulo |
-| **Full Stack Developer** | Self-directed · Jan 2024 – Jun 2025 |
-| Hands-on architecture study: APIs, SQL/NoSQL, Docker, scalable design | São Paulo |
-| **E-Commerce Assistant** | Primus Variedades · Jul–Dec 2024 |
-| ERP API integration (Bling), Python data automation, marketplace ops | São Paulo |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Casa-Mausa&theme=github_dark)
-
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Casa-Mausa&theme=github_dark" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucas-Casa-Mausa&theme=github_dark" /></td>
-  </tr>
-</table>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lucas-Casa-Mausa&theme=github-dark-blue&hide_border=true)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 </div>
 
----
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; Featured
 
 <div align="center">
-<sub>São Paulo · open to backend and platform engineering roles</sub>
+<a href="https://github.com/Lucas-Casa-Mausa/gobalance">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Casa-Mausa&repo=gobalance&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/Lucas-Casa-Mausa/THREADS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucas-Casa-Mausa&repo=THREADS&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+</div>
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> &nbsp; Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lucas-Casa-Mausa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Casa-Mausa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Lucas-Casa-Mausa&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas-Casa-Mausa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lucas-Casa-Mausa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Open%20to%20backend%20and%20platform%20engineering%20roles&fontSize=17&fontColor=ffffff&fontAlignY=72" width="100%" />
+
 </div>
